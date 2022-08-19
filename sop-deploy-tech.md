@@ -13,7 +13,7 @@ Upon receipt of the above information, the following process is initiated:<br>
 
 1.   Order tech equipment requested in email with any special instructions (ex: rush order); 
 2.  When we receive technology shipment, send email to client's HR to schedule appt for equipment delivery and install; 
-3.  Install all tech equipment where necessary, including printers, peripherals, etc; 
+3.  Install all tech equipment where necessary, including printers, peripheralsls, etc; 
 4.  Configure devices for internet and network/fileshare access; 
 5.  Configure email and all other applications with temporary passwords with on screen instructions to new hire to call helpdesk after first login for further instructions. 
 5. Test all functionality of workspace technology; 
