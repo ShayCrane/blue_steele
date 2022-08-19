@@ -1,5 +1,6 @@
 *Standard Operating Procedure*<br><br><br>
 
+*Purpose: describes procedure for new-hire technology deployment.*
 
 # Deploying Technology During New Hire Onboarding:
 
